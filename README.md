@@ -1,4 +1,5 @@
-# Supermarket_Sales
+# Supermarket Sales
+## 🎉 **2nd Runner-up** 🎉 at **ICE(Industry Capabl Engineers) Challenge 2022**
 ---
 **Data Analysis and Predition of gross income from Supermarket Sale**
 * **Prediction Using Multilinear regression**
