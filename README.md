@@ -1,5 +1,15 @@
 # Supermarket Sales
 ## 🎉 **2nd Runner-up** 🎉 at **ICE(Industry Capabl Engineers) Challenge 2022**
+
+**Certification**
+
+<h3>Embedding the PDF file Using Object Tag</h3>
+<object data =
+"https://github.com/lokeshparab/Supermarket_Sales/blob/main/ETGICE1008.pdf" 
+                width="800" 
+                height="500"> 
+        </object>
+
 ---
 **Data Analysis and Predition of gross income from Supermarket Sale**
 * **Prediction Using Multilinear regression**
