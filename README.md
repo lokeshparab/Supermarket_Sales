@@ -4,6 +4,12 @@
 **Certification**
 
 <h3>Embedding the PDF file Using Object Tag</h3>
+
+<embed src=
+"https://github.com/lokeshparab/Supermarket_Sales/blob/main/ETGICE1008.pdf" 
+               width="800"
+               height="500">
+
 <object data =
 "https://github.com/lokeshparab/Supermarket_Sales/blob/main/ETGICE1008.pdf" 
                 width="800" 
